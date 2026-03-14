@@ -1,6 +1,6 @@
-# ¡Hola! Soy [Tu Nombre Aquí] 🛡️
+# ¡Hola! Soy Lucas Reyes 🛡️
 
-### Estudiante de Ingeniería • Aspirante a Analista SOC • Entusiasta de la Ciberseguridad
+### Estudiante de Ingeniería en Computación • Aspirante a Analista SOC • Entusiasta de la Ciberseguridad
 
 ---
 
