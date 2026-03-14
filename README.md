@@ -1,4 +1,4 @@
-![Encabezado de Lucas Reyes](encabezado.svg)
+![Encabezado de Lucas Reyes](Lucas-profile-banner.svg)
 ---
 
 <p align="center">
