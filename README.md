@@ -2,9 +2,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estado-Estudiante%20Ingenier%C3%ADa-blue?style=for-the-badge&logo=education" alt="Estado Estudiante">
-  <img src="https://img.shields.io/badge/Enfoque-Ciberseguridad%20%26%20Redes-9e0d16?style=for-the-badge&logo=hackthebox" alt="Enfoque Seguridad">
-  <img src="https://img.shields.io/badge/Meta-Analista%20SOC-00ff00?style=for-the-badge&logo=splunk" alt="Meta SOC">
+<img src="https://img.shields.io/badge/Estado-Estudiante%20Ingenier%C3%ADa-blue?style=for-the-badge&logo=education" alt="Estado Estudiante">
+<img src="https://img.shields.io/badge/Enfoque-Ciberseguridad%20%26%20Redes-9e0d16?style=for-the-badge&logo=hackthebox" alt="Enfoque Seguridad">
+<img src="https://img.shields.io/badge/Meta-Analista%20SOC-00ff00?style=for-the-badge&logo=splunk" alt="Meta SOC">
 </p>
 
 ---
