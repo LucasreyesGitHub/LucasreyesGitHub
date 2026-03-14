@@ -1,7 +1,4 @@
-# ¡Hola! Soy Lucas Reyes 🛡️
-
-### Estudiante de Ingeniería en Computación • Aspirante a Analista SOC • Entusiasta de la Ciberseguridad
-
+![Encabezado de Lucas Reyes](encabezado.svg)
 ---
 
 <p align="center">
