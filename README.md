@@ -55,6 +55,8 @@ Soy un estudiante de ingeniería apasionado por la seguridad defensiva y la resp
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=radical&count_private=true&hide=contribs,prs" alt="Estadísticas de GitHub">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasreyesGitHub&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-AQUI&layout=compact&theme=radical&hide=html,css,javascript" alt="Lenguajes más usados">
 </p>
