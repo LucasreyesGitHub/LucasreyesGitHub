@@ -17,9 +17,9 @@ Soy un estudiante de ingeniería apasionado por la seguridad defensiva y la resp
 </p>
 
 <p align="center">
-  🔭 <b>Trabajando en:</b> Análisis de logs en Splunk y Kibana <br>
-  📚 <b>Aprendiendo:</b> Threat Hunting y análisis de malware <br>
-  🌱 <b>Buscando:</b> Oportunidades como Analista SOC Junior
+  <img src="https://img.shields.io/badge/Trabajando_en-Análisis_de_logs-0056b3?style=flat-square&logo=splunk" />
+  <img src="https://img.shields.io/badge/Aprendiendo-Threat_Hunting-8b0000?style=flat-square&logo=target" />
+  <img src="https://img.shields.io/badge/Buscando-Analista_SOC_Junior-2ea44f?style=flat-square&logo=search" />
 </p>
 
 <p align="center">
@@ -42,23 +42,18 @@ Soy un estudiante de ingeniería apasionado por la seguridad defensiva y la resp
   <img src="https://img.shields.io/badge/PFsense-000000?style=for-the-badge&logo=pfsense&logoColor=white">
 </p>
 
-<h3 align="center">─── 🐍 Automation & Scripting ───</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-</p>
-
 <p align="center">
   <code>━━━━━━━━━━━━━━━ 📊 MÉTRICAS DE ACTIVIDAD ━━━━━━━━━━━━━━━</code>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=tokyonight&count_private=true&hide=contribs,prs" alt="Estadísticas de GitHub">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU-USUARIO-AQUI&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide=html,css,javascript" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasreyesGitHub&show_icons=true&theme=cobalt&count_private=true&hide=contribs,prs" alt="Estadísticas de GitHub">
+  <br><br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasreyesGitHub&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  </a>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasreyesGitHub&layout=compact&theme=cobalt&hide=html,css,javascript" alt="Lenguajes más usados">
 </p>
 
 <p align="center">
@@ -67,6 +62,6 @@ Soy un estudiante de ingeniería apasionado por la seguridad defensiva y la resp
 
 <p align="center">
   <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO-AQUI/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://app.hackthebox.com/profile/TU-ID"><img src="https://img.shields.io/badge/HackTheBox-9e0d16?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tu-usuario/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://app.hackthebox.com/profile/tu-id"><img src="https://img.shields.io/badge/HackTheBox-9E0D16?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
 </p>
