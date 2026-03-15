@@ -18,6 +18,6 @@
 
 | 📫 **COMMUNICATION CHANNELS** |
 | :--- |
-| <p align="center"><a href="mailto:lucasrfcapilla.1b2015@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/LucasreyesGitHub/"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://profile.hackthebox.com/profile/019cf22f-886d-70e4-8257-df0559d5969a"><img src="https://img.shields.io/badge/HackTheBox-1a1b26?style=for-the-badge&logo=hackthebox&logoColor=white"></a></p> |
+| <p align="center"><a href="mailto:lucasrfcapilla.1b2015@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/lucasreyes2003/"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://profile.hackthebox.com/profile/019cf22f-886d-70e4-8257-df0559d5969a"><img src="https://img.shields.io/badge/HackTheBox-1a1b26?style=for-the-badge&logo=hackthebox&logoColor=white"></a></p> |
 
 </div>
