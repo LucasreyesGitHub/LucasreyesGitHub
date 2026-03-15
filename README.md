@@ -54,11 +54,11 @@ Soy un estudiante de ingeniería apasionado por la seguridad defensiva y la resp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=radical&count_private=true&hide=contribs,prs" alt="Estadísticas de GitHub">
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasreyesGitHub&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=tokyonight&count_private=true&hide=contribs,prs" alt="Estadísticas de GitHub">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-AQUI&layout=compact&theme=radical&hide=html,css,javascript" alt="Lenguajes más usados">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU-USUARIO-AQUI&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide=html,css,javascript" alt="Lenguajes más usados">
 </p>
 
 <p align="center">
@@ -68,5 +68,5 @@ Soy un estudiante de ingeniería apasionado por la seguridad defensiva y la resp
 <p align="center">
   <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/TU-USUARIO-AQUI/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="TU-PERFIL-DE-HACKTHEBOX"><img src="https://img.shields.io/badge/HackTheBox-9e0d16?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
+  <a href="https://app.hackthebox.com/profile/TU-ID"><img src="https://img.shields.io/badge/HackTheBox-9e0d16?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
 </p>
