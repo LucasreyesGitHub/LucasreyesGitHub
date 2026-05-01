@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Lucas%20Reyes&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Engineering%20Student%20%7C%20Data%20%7C%20Automation%20%7C%20Cybersecurity&descAlignY=55&descSize=14" width="100%">
+  <img src="Lucas-profile-banner(1).svg" width="100%">
 </p>
 
 <div align="center">
