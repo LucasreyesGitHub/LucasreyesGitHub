@@ -87,7 +87,8 @@ Wazuh · Splunk · SIEM · Logs Analysis
 
 ## 📊 ./stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=LucasreyesGitHub&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00ff41&text_color=9aa5ce&icon_color=00ff41&hide_border=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasreyesGitHub&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasreyesGitHub&theme=tokyonight">
 
 ---
 
@@ -100,4 +101,5 @@ Wazuh · Splunk · SIEM · Logs Analysis
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=120&section=footer"/>
 </p>
+
 
