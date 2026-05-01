@@ -98,7 +98,7 @@ Wazuh · Splunk · SIEM
 
 - Email: lucasrfcapilla.1b2015@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/lucasreyes2003/  
-- Portfolio: https://lucasreyesgithub.github.io/portfolio  
+- Portfolio: https://lucasreyesgithub.github.io/lucasreyes.github.io/
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=120&section=footer"/>
