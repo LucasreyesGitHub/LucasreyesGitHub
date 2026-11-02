@@ -83,13 +83,20 @@ My approach is centered on continuous learning, technical experimentation, and b
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasreyesGitHub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lucas Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasreyesGitHub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=LucasreyesGitHub&show_icons=true&theme=transparent&hide_border=true"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasreyesGitHub&layout=compact&theme=transparent&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
-
 ---
 
 ## 🚀 Featured Projects
