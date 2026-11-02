@@ -1,105 +1,81 @@
-<p align="center">
-  <img src="Lucas-profile-banner(1).svg"/>
-</p>
+# Lucas Reyes
 
-<div align="center">
+### Software Development | Data | Cybersecurity
 
-```bash
-lucas@github:~$ whoami
-> Ingeniería en Computación · Data Analyst · Automation · Cybersecurity (Learning)
+Computer Science student based in Uruguay, interested in building practical technology solutions through software development, data management, automation and cybersecurity.
 
-lucas@github:~$ focus
-> Data Analysis · Process Automation · AI Workflows
+I enjoy exploring new technologies, solving problems and turning theoretical knowledge into practical projects.
 
-lucas@github:~$ status
-> OPEN TO WORK ✓ | LEARNING: Always
-```
-
-</div>
+My approach is focused on continuous learning, technical experimentation and building solutions that are useful, maintainable and well documented.
 
 ---
 
-## 🧠 SYSTEM OVERVIEW
+## Areas of Interest
 
-<div align="center">
+| Area | Focus |
+|---|---|
+| Software Development | Programming, application development, APIs and software engineering |
+| Data | SQL, databases, data analysis and data engineering |
+| Cybersecurity | Network security, security analysis, Blue Team and SOC operations |
+| Automation | Python scripting, process automation and API integrations |
 
-| 🎯 Focus | 🤖 AI | 🛡️ Cyber | 🌍 Location |
-|--------|------|---------|-----------|
-| Data & Automation | Workflows | Learning (Blue Team) | Uruguay 🇺🇾 |
+## Technologies & Tools
 
-</div>
+**Programming & Development**
 
----
+`Python` `SQL` `Git` `GitHub`
 
-## 👤 ABOUT ME
+**Data & Databases**
 
-Soy estudiante de **Ingeniería en Computación** con enfoque en:
+`MySQL` `Database Design` `Data Analysis`
 
-- 📊 **Análisis de Datos**
-- 🤖 **Automatización de procesos (Make, APIs, bots)**
-- 🛡️ **Ciberseguridad en formación (Blue Team)**
+**Cybersecurity**
 
----
+`Linux` `Networking` `Wireshark` `Nmap`
 
-## 🧠 CURRENT FOCUS
+**Infrastructure & Tools**
 
-```bash
-1. Data Analysis + Automation + AI Workflows
-2. Cybersecurity fundamentals (Blue Team path)
-3. Building real-world projects
-```
+`Docker` `APIs` `VS Code`
 
----
-
-## 🛠️ TECH STACK
-
-### 📊 Data & Automation
-Python · Pandas · Make · APIs
-
-### 💻 Systems
-Linux · Git · Networking
-
-### 🛡️ Cybersecurity (Learning)
-Wazuh · Splunk · SIEM
+*This list represents technologies and tools in my learning and project environment, not necessarily professional-level proficiency in every area.*
 
 ---
 
-## 🚀 PROJECTS
+## Featured Projects
 
-| Proyecto | Descripción | Stack |
-|--------|------------|------|
-| QrSocAnalyzer | Análisis automatizado de QR maliciosos | Python |
-| cybersecurity-journey | Documentación de labs | Kali |
-| EasyFood UY | App full-stack | Python |
-| Telegram → Sheets | Automatización | APIs |
+### [QrSocAnalyzer](https://github.com/LucasreyesGitHub/QrSocAnalyzer)
 
----
+A practical project focused on QR code security analysis and identifying potentially malicious URLs.
 
-## 📜 CERTIFICATIONS
+### [Cybersecurity Journey](https://github.com/LucasreyesGitHub/cybersecurity-journey)
 
-| Certificación | Estado |
-|--------------|--------|
-| Google Cybersecurity Certificate | ✅ |
-| SOC Level 1 | 🔄 |
-| Cisco Networking | ✅ |
-| Security+ | 🎯 |
+A technical knowledge base documenting cybersecurity learning, practical exercises, labs and security concepts.
+
+### [Knowledge Hub](https://github.com/LucasreyesGitHub/knowledge-hub)
+
+A structured repository for organizing technical knowledge, course materials, programming concepts and practical examples.
 
 ---
 
-## 📊 STATS
+## Learning & Development
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasreyesGitHub&theme=tokyonight"/>
-</p>
+Currently expanding my knowledge through:
+
+- Software engineering and programming.
+- SQL, relational databases and data management.
+- Python development and process automation.
+- Cybersecurity fundamentals and SOC operations.
+- Networking, Linux and security analysis.
+
+I believe in learning by doing: documenting concepts, experimenting with tools and applying knowledge to real-world problems.
 
 ---
 
-## 📫 CONTACT
+## Connect
 
-- Email: lucasrfcapilla.1b2015@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/lucasreyes2003/  
-- Portfolio: https://lucasreyesgithub.github.io/lucasreyes.github.io/
+- **GitHub:** [LucasreyesGitHub](https://github.com/LucasreyesGitHub)
+- **LinkedIn:** Add your professional LinkedIn URL here.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=120&section=footer"/>
-</p>
+---
+
+*Building knowledge. Developing solutions. Improving continuously.*
