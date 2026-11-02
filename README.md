@@ -74,7 +74,7 @@ I believe in learning by doing: documenting concepts, experimenting with tools a
 ## Connect
 
 - **GitHub:** [LucasreyesGitHub](https://github.com/LucasreyesGitHub)
-- **LinkedIn:** Add your professional LinkedIn URL here.
+- **LinkedIn:** [LucasreyesLink](https://www.linkedin.com/in/lucasreyes2003/)
 
 ---
 
