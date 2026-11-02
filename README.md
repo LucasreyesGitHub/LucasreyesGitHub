@@ -47,7 +47,7 @@ My approach is focused on continuous learning, technical experimentation and bui
 
 A practical project focused on QR code security analysis and identifying potentially malicious URLs.
 
-### [Cybersecurity Journey](https://github.com/LucasreyesGitHub/cybersecurity-journey)
+### [Cybersecurity Roadmap](https://github.com/LucasreyesGitHub/Cybersecurity_Roadmap/tree/main)
 
 A technical knowledge base documenting cybersecurity learning, practical exercises, labs and security concepts.
 
